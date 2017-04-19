@@ -1,5 +1,5 @@
 # Pezzi
-Ogni set di pezzi (che sia bianco o nero) è composto di pedoni, torri, alfieri, cavalli, donna e re.
+klsdj ldjòdjòlsdj lòaskd òlk òlk òlk 
 
 ## Specifica
 0. La mossa è valida se il giocatore sposta il pezzo di almeno una casa, in una qualsiasi direzione;
